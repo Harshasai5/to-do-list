@@ -1,0 +1,87 @@
+body {
+    background-color: #1d2630;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar Cleanup */
+.navbar {
+  background-color: #1d2630 !important;
+  border-bottom: 2px solid #3f5185;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: #ffffff !important;
+}
+
+.navbar-text {
+  color: #ffffff;
+  font-size: 1rem;
+}
+
+.navbar .btn-outline-light {
+  border-color: #60aaff;
+  color: #60aaff;
+}
+
+.navbar .btn-outline-light:hover {
+  background-color: #60aaff;
+  color: #1d2630;
+  border-color: #60aaff;
+  transition: 0.3s;
+}
+
+
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    border:none;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: #3f5185;
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 12px;
+}
+
+.add-task-btn {
+    background-color: #3f5185;
+    border-radius: 5px;
+
+}
+.task-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+.task-card h5 {
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+}
+.task-action button{
+    margin-top: 50px;
+}
+
+.bg-success-subtle {
+    background-color: #d1e7dd !important;
+}
+
+.text-decoration-line-through {
+    text-decoration: line-through;
+}
+.text-decoration-line-through {
+  text-decoration: line-through;
+}
+.bg-success-subtle {
+  background-color: #d1e7dd !important;
+}
